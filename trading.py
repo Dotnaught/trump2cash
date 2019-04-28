@@ -38,7 +38,7 @@ FIXML_NAMESPACE = "http://www.fixprotocol.org/FIXML-5-0-SP2"
 FIXML_HEADERS = {"Content-Type": "text/xml"}
 
 # The amount of cash in dollars to hold from being spent.
-CASH_HOLD = 1000
+CASH_HOLD = 100
 
 # The fraction of the stock price at which to set order limits.
 LIMIT_FRACTION = 0.1
