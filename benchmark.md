@@ -11,399 +11,53 @@ $ ./benchmark.py > benchmark.md
 
 Here's each tweet with the results of its analysis and individual market performance.
 
-##### [12/6/2016 8:52 AM (Tuesday)](https://twitter.com/realDonaldTrump/status/806134244384899072)
+##### [7/20/2018 10:39 AM (Friday)](https://twitter.com/realDonaldTrump/status/1020317241005477888)
 
-> Boeing is building a brand new 747 Air Force One for future presidents, but costs are out of control, more than $4 billion. Cancel order!
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Boeing | - | -0.1 :thumbsdown: | bear | negative sentiment
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-BA | New York Stock Exchange | $152.16 | $152.30 | -0.092%
-
-##### [12/11/2016 10:29 AM (Sunday)](https://twitter.com/realDonaldTrump/status/807970490635743237)
-
-> Whether I choose him or not for "State"- Rex Tillerson, the Chairman &amp; CEO of ExxonMobil, is a world class player and dealmaker. Stay tuned!
+> RT @realDonaldTrump: I told you so! The European Union just slapped a Five Billion Dollar fine on one of our great companies, Google. They…
 
 *Strategy*
 
 Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
-ExxonMobil | - | 0.2 :thumbsup: | hold | market closed
-ExxonMobil | BlackRock | 0.2 :thumbsup: | hold | market closed
-ExxonMobil | PNC Financial Services | 0.2 :thumbsup: | hold | market closed
-ExxonMobil | State Street Corporation | 0.2 :thumbsup: | hold | market closed
+Google | - | -0.10000000149011612 :thumbsdown: | hold | blacklist
+Google | - | -0.10000000149011612 :thumbsdown: | hold | blacklist
+Google | BlackRock | -0.10000000149011612 :thumbsdown: | bear | negative sentiment
+Google | PNC Financial Services | -0.10000000149011612 :thumbsdown: | bear | negative sentiment
 
 *Performance*
 
 Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
-XOM | New York Stock Exchange | - | - | 0.000%
+GOOG | NASDAQ | - | - | 0.000%
+GOOGL | NASDAQ | - | - | 0.000%
 BLK | New York Stock Exchange | - | - | 0.000%
 PNC | New York Stock Exchange | - | - | 0.000%
-STT | New York Stock Exchange | - | - | 0.000%
 
-##### [12/12/2016 8:26 AM (Monday)](https://twitter.com/realDonaldTrump/status/808301935728230404)
+##### [7/23/2018 9:35 AM (Monday)](https://twitter.com/realDonaldTrump/status/1021388295618682881)
 
-> The F-35 program and cost is out of control. Billions of dollars can and will be saved on military (and other) purchases after January 20th.
+> ....In my opinion the Washington Post is nothing more than an expensive (the paper loses a fortune) lobbyist for Amazon. Is it used as protection against antitrust claims which many feel should be brought?
 
 *Strategy*
 
 Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
-Lockheed Martin Aeronautics | Lockheed Martin | 0 :neutral_face: | hold | neutral sentiment
+Amazon | - | -0.10000000149011612 :thumbsdown: | bear | negative sentiment
 
 *Performance*
 
 Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
-LMT | New York Stock Exchange | $260.47 | $253.25 | 0.000%
+AMZN | NASDAQ | - | - | 0.000%
 
-##### [12/13/2016 6:43 AM (Tuesday)](https://twitter.com/realDonaldTrump/status/808638507161882624)
+##### [7/24/2018 7:01 AM (Tuesday)](https://twitter.com/realDonaldTrump/status/1021711895890460672)
 
-> I have chosen one of the truly great business leaders of the world, Rex Tillerson, Chairman and CEO of ExxonMobil, to be Secretary of State.
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-ExxonMobil | - | 0.5 :thumbsup: | hold | market closed
-ExxonMobil | BlackRock | 0.5 :thumbsup: | hold | market closed
-ExxonMobil | PNC Financial Services | 0.5 :thumbsup: | hold | market closed
-ExxonMobil | State Street Corporation | 0.5 :thumbsup: | hold | market closed
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-XOM | New York Stock Exchange | $90.98 | $92.27 | 0.000%
-BLK | New York Stock Exchange | $390.28 | $392.64 | 0.000%
-PNC | New York Stock Exchange | $114.07 | $114.70 | 0.000%
-STT | New York Stock Exchange | $80.39 | $79.10 | 0.000%
-
-##### [12/17/2016 4:17 PM (Saturday)](https://twitter.com/realDonaldTrump/status/810232514749075456)
-
-> RT @DanScavino: Join President-elect Trump LIVE from Mobile, Alabama via his #Facebook page! #ThankYouTour2016 
-
-> Watch: https://t.co/btzN080…
+> RT @DanScavino: “Lockheed Martin will add 400 workers to boost production of the F-35 fighter jet, the most expensive in U.S. history, afte…
 
 *Strategy*
 
 Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
-Facebook | Facebook Inc. | 0.4 :thumbsup: | hold | market closed
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-FB | NASDAQ | - | - | 0.000%
-
-##### [12/22/2016 5:26 PM (Thursday)](https://twitter.com/realDonaldTrump/status/812061677160202240)
-
-> Based on the tremendous cost and cost overruns of the Lockheed Martin F-35, I have asked Boeing to price-out a comparable F-18 Super Hornet!
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Lockheed Martin Aeronautics | Lockheed Martin | 0 :neutral_face: | hold | market closed
-Boeing | - | 0 :neutral_face: | hold | market closed
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-LMT | New York Stock Exchange | $252.80 | $249.55 | 0.000%
-BA | New York Stock Exchange | $157.46 | $157.92 | 0.000%
-
-##### [1/3/2017 7:30 AM (Tuesday)](https://twitter.com/realDonaldTrump/status/816260343391514624)
-
-> General Motors is sending Mexican made model of Chevy Cruze to U.S. car dealers-tax free across border. Make in U.S.A.or pay big border tax!
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-General Motors | - | -0.1 :thumbsdown: | hold | market closed
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-GM | New York Stock Exchange | $34.84 | $35.15 | 0.000%
-
-##### [1/3/2017 11:44 AM (Tuesday)](https://twitter.com/realDonaldTrump/status/816324295781740544)
-
-> "@DanScavino: Ford to scrap Mexico plant, invest in Michigan due to Trump policies"
-
-> https://t.co/137nUo03Gl
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Ford | - | 0.5 :thumbsup: | bull | positive sentiment
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-F | New York Stock Exchange | $12.41 | $12.59 | 1.450%
-
-##### [1/4/2017 8:19 AM (Wednesday)](https://twitter.com/realDonaldTrump/status/816635078067490816)
-
-> Thank you to Ford for scrapping a new plant in Mexico and creating 700 new jobs in the U.S. This is just the beginning - much more to follow
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Ford | - | 0.3 :thumbsup: | bull | positive sentiment
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-F | New York Stock Exchange | $12.59 | $13.17 | 4.607%
-
-##### [1/5/2017 1:14 PM (Thursday)](https://twitter.com/realDonaldTrump/status/817071792711942145)
-
-> Toyota Motor said will build a new plant in Baja, Mexico, to build Corolla cars for U.S. NO WAY! Build plant in U.S. or pay big border tax.
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Toyota | - | -0.2 :thumbsdown: | bear | negative sentiment
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-TM | New York Stock Exchange | $121.12 | $120.44 | 0.565%
-
-##### [1/9/2017 9:14 AM (Monday)](https://twitter.com/realDonaldTrump/status/818460862675558400)
-
-> It's finally happening - Fiat Chrysler just announced plans to invest $1BILLION in Michigan and Ohio plants, adding 2000 jobs. This after...
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Fiat | Fiat Chrysler Automobiles | 0.2 :thumbsup: | bull | positive sentiment
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-FCAU | New York Stock Exchange | $10.55 | $10.57 | 0.190%
-
-##### [1/9/2017 9:16 AM (Monday)](https://twitter.com/realDonaldTrump/status/818461467766824961)
-
-> Ford said last week that it will expand in Michigan and U.S. instead of building a BILLION dollar plant in Mexico. Thank you Ford &amp; Fiat C!
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Ford | - | 0.3 :thumbsup: | bull | positive sentiment
-Fiat | Fiat Chrysler Automobiles | 0.3 :thumbsup: | bull | positive sentiment
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-F | New York Stock Exchange | $12.84 | $12.64 | -1.558%
-FCAU | New York Stock Exchange | $10.57 | $10.57 | 0.000%
-
-##### [1/16/2017 8:42 PM (Monday)](https://twitter.com/realDonaldTrump/status/821170750983995392)
-
-> "@levisteveholt: @realDonaldTrump I appreciate your use of Twitter to keep us informed and maintain transparency." Very dishonest media!
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Twitter | - | 0 :neutral_face: | hold | market closed
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-TWTR | New York Stock Exchange | - | - | 0.000%
-
-##### [1/17/2017 12:55 PM (Tuesday)](https://twitter.com/realDonaldTrump/status/821415698278875137)
-
-> Thank you to General Motors and Walmart for starting the big jobs push back into the U.S.!
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-General Motors | - | 0.4 :thumbsup: | bull | positive sentiment
-Walmart | - | 0.4 :thumbsup: | bull | positive sentiment
-Walmart | State Street Corporation | 0.4 :thumbsup: | bull | positive sentiment
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-GM | New York Stock Exchange | $37.54 | $37.31 | -0.613%
-WMT | New York Stock Exchange | $68.53 | $68.50 | -0.044%
-STT | New York Stock Exchange | $81.19 | $80.20 | -1.219%
-
-##### [1/18/2017 7:34 AM (Wednesday)](https://twitter.com/realDonaldTrump/status/821697182235496450)
-
-> Totally biased @NBCNews went out of its way to say that the big announcement from Ford, G.M., Lockheed &amp; others that jobs are coming back...
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Ford | - | -0.6 :thumbsdown: | hold | market closed
-General Motors | - | -0.6 :thumbsdown: | hold | market closed
-Lockheed Martin | - | -0.6 :thumbsdown: | hold | market closed
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-F | New York Stock Exchange | $12.60 | $12.41 | 0.000%
-GM | New York Stock Exchange | $37.31 | $37.47 | 0.000%
-LMT | New York Stock Exchange | $254.12 | $254.07 | 0.000%
-
-##### [1/18/2017 8:00 AM (Wednesday)](https://twitter.com/realDonaldTrump/status/821703902940827648)
-
-> "Bayer AG has pledged to add U.S. jobs and investments after meeting with President-elect Donald Trump, the latest in a string..." @WSJ
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Bayer | BlackRock | 0.4 :thumbsup: | bull | positive sentiment
-Bayer | PNC Financial Services | 0.4 :thumbsup: | bull | positive sentiment
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-BLK | New York Stock Exchange | $374.80 | $378.00 | 0.854%
-PNC | New York Stock Exchange | $113.97 | $116.32 | 2.062%
-
-##### [1/24/2017 12:49 PM (Tuesday)](https://twitter.com/realDonaldTrump/status/823950814163140609)
-
-> Signing orders to move forward with the construction of the Keystone XL and Dakota Access pipelines in the Oval Office. https://t.co/OErGmbBvYK
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Keystone Pipeline | TransCanada Corporation | 0 :neutral_face: | hold | neutral sentiment
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-TRP | New York Stock Exchange | - | - | 0.000%
-
-##### [1/24/2017 7:46 PM (Tuesday)](https://twitter.com/realDonaldTrump/status/824055927200423936)
-
-> Great meeting with Ford CEO Mark Fields and General Motors CEO Mary Barra at the @WhiteHouse today. https://t.co/T0eIgO6LP8
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Ford | - | 0.5 :thumbsup: | hold | market closed
-General Motors | - | 0.5 :thumbsup: | hold | market closed
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-F | New York Stock Exchange | $12.60 | $12.78 | 0.000%
-GM | New York Stock Exchange | $37.09 | $38.28 | 0.000%
-
-##### [1/28/2017 10:42 AM (Saturday)](https://twitter.com/realDonaldTrump/status/825368580325773312)
-
-> Today, we remember the crew of the Space Shuttle Challenger, 31 years later. #NeverForget https://t.co/OhshQsFRfl
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Rockwell Automation | - | 0.2 :thumbsup: | hold | market closed
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-ROK | New York Stock Exchange | - | - | 0.000%
-
-##### [1/30/2017 7:16 AM (Monday)](https://twitter.com/realDonaldTrump/status/826041397232943104)
-
-> Only 109 people out of 325,000 were detained and held for questioning. Big problems at airports were caused by Delta computer outage,.....
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Delta Air Lines | - | -0.4 :thumbsdown: | hold | market closed
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-DAL | New York Stock Exchange | $49.70 | $47.75 | 0.000%
-
-##### [2/8/2017 10:51 AM (Wednesday)](https://twitter.com/realDonaldTrump/status/829356871848951809)
-
-> My daughter Ivanka has been treated so unfairly by @Nordstrom. She is a great person -- always pushing me to do the right thing! Terrible!
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Nordstrom | - | -0.2 :thumbsdown: | bear | negative sentiment
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-JWN | New York Stock Exchange | $42.64 | $44.53 | -4.244%
-
-##### [2/8/2017 2:22 PM (Wednesday)](https://twitter.com/realDonaldTrump/status/829410107406614534)
-
-> Thank you Brian Krzanich, CEO of @Intel. A great investment ($7 BILLION) in American INNOVATION and JOBS! #AmericaFirst🇺🇸 https://t.co/76lAiSSQ1l
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Intel | - | 0.6 :thumbsup: | bull | positive sentiment
-
-*Performance*
-
-Ticker | Exchange | Price @ tweet | Price @ close | Gain
--------|----------|---------------|---------------|-----
-INTC | NASDAQ | $36.43 | $36.47 | 0.110%
-
-##### [2/11/2017 8:24 AM (Saturday)](https://twitter.com/realDonaldTrump/status/830407172747988992)
-
-> ...design or negotiations yet. When I do, just like with the F-35 FighterJet or the Air Force One Program, price will come WAY DOWN!
-
-*Strategy*
-
-Company | Root | Sentiment | Strategy | Reason
---------|------|-----------|----------|-------
-Lockheed Martin Aeronautics | Lockheed Martin | 0 :neutral_face: | hold | market closed
+Lockheed Martin | - | 0.0 :neutral_face: | hold | market closed
 
 *Performance*
 
@@ -411,51 +65,131 @@ Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
 LMT | New York Stock Exchange | - | - | 0.000%
 
-##### [2/14/2017 5:50 PM (Tuesday)](https://twitter.com/realDonaldTrump/status/831636777110757377)
+##### [7/24/2018 8:39 PM (Tuesday)](https://twitter.com/realDonaldTrump/status/1021917767467982854)
 
-> Obamacare continues to fail. Humana to pull out in 2018. Will repeal, replace &amp; save healthcare for ALL Americans. 
-
-> https://t.co/glWEQ0lNR4
+> So sad and unfair that the FCC wouldn’t approve the Sinclair Broadcast merger with Tribune. This would have been a great and much needed Conservative voice for and of the People. Liberal Fake News NBC and Comcast gets approved, much bigger, but not Sinclair. Disgraceful!
 
 *Strategy*
 
 Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
-Humana | - | 0 :neutral_face: | hold | market closed
+Sinclair Broadcast Group | - | -0.30000001192092896 :thumbsdown: | hold | market closed
+Tribune Media | - | -0.30000001192092896 :thumbsdown: | hold | market closed
+Comcast | - | -0.30000001192092896 :thumbsdown: | hold | market closed
 
 *Performance*
 
 Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
-HUM | New York Stock Exchange | - | - | 0.000%
+SBGI | NASDAQ | - | - | 0.000%
+TRCO | New York Stock Exchange | - | - | 0.000%
+CMCSA | NASDAQ | - | - | 0.000%
 
-##### [2/15/2017 4:34 PM (Wednesday)](https://twitter.com/realDonaldTrump/status/831979921555742732)
+##### [7/26/2018 5:12 PM (Thursday)](https://twitter.com/realDonaldTrump/status/1022590568612937728)
 
-> Aetna CEO: Obamacare in 'Death Spiral' #RepealAndReplace 
-
-> https://t.co/dmHL7xIEQv
+> Thank you @U_S_Steel and Granite City, Illinois! https://t.co/6RsUvGF6rg
 
 *Strategy*
 
 Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
-Aetna | - | -0.6 :thumbsdown: | hold | market closed
+U.S. Steel | - | 0.0 :neutral_face: | hold | market closed
 
 *Performance*
 
 Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
-AET | New York Stock Exchange | - | - | 0.000%
+X | New York Stock Exchange | - | - | 0.000%
 
-##### [2/17/2017 6:38 AM (Friday)](https://twitter.com/realDonaldTrump/status/832554772318322688)
+##### [7/26/2018 10:37 PM (Thursday)](https://twitter.com/realDonaldTrump/status/1022672169019613186)
 
-> Going to Charleston, South Carolina, in order to spend time with Boeing and talk jobs! Look forward to it.
+> America is OPEN FOR BUSINESS and U.S. Steel is back! https://t.co/lJTcr6JHBW
 
 *Strategy*
 
 Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
-Boeing | - | 0.2 :thumbsup: | hold | market closed
+U.S. Steel | - | 0.0 :neutral_face: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+X | New York Stock Exchange | - | - | 0.000%
+
+##### [7/27/2018 7:26 AM (Friday)](https://twitter.com/realDonaldTrump/status/1022805381440069632)
+
+> Arrived back in Washington last night from a very emotional reopening of a major U.S. Steel plant in Granite City, Illinois, only to be greeted with the ridiculous news that the highly conflicted Robert Mueller and his gang of 13 Angry Democrats obviously cannot find Collusion...
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+U.S. Steel | - | -0.8999999761581421 :thumbsdown: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+X | New York Stock Exchange | - | - | 0.000%
+
+##### [7/30/2018 8:06 AM (Monday)](https://twitter.com/realDonaldTrump/status/1023902692534571013)
+
+> RT @GOPChairwoman: “David Burritt, U.S. Steel's president and CEO, said the company was experiencing a ‘renaissance’ and credited @realDona…
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+U.S. Steel | - | 0.0 :neutral_face: | hold | neutral sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+X | New York Stock Exchange | - | - | 0.000%
+
+##### [8/1/2018 5:16 PM (Wednesday)](https://twitter.com/realDonaldTrump/status/1024765763775815695)
+
+> “Private payrolls boom in July, increasing by 219,000 vs 185,000 estimate: ADP” https://t.co/SeU9kGpima
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Automatic Data Processing | - | 0.10000000149011612 :thumbsup: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+ADP | NASDAQ | - | - | 0.000%
+
+##### [8/2/2018 12:38 AM (Thursday)](https://twitter.com/realDonaldTrump/status/1024877011775500290)
+
+> Congratulations to  @GreggJarrett on The TREMENDOUS success of his just out book, “The Russia Hoax, The Illicit Scheme To Clear Hillary Clinton &amp; Frame Donald Trump.” Already number one on Amazon. Hard work from a brilliant guy. It’s the Real Story of the Rigged Witch Hunt!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Amazon | - | -0.10000000149011612 :thumbsdown: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+AMZN | NASDAQ | - | - | 0.000%
+
+##### [8/3/2018 6:43 PM (Friday)](https://twitter.com/realDonaldTrump/status/1025512396654346251)
+
+> NASA, which is making a BIG comeback under the Trump Administration, has just named 9 astronauts for Boeing and Spacex space flights. We have the greatest facilities in the world and we are now letting the private sector pay to use them. Exciting things happening. Space Force!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Boeing | - | 0.20000000298023224 :thumbsup: | hold | market closed
 
 *Performance*
 
@@ -463,83 +197,531 @@ Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
 BA | New York Stock Exchange | - | - | 0.000%
 
-##### [3/6/2017 4:19 PM (Monday)](https://twitter.com/realDonaldTrump/status/838861512999649286)
+##### [8/3/2018 11:01 PM (Friday)](https://twitter.com/realDonaldTrump/status/1025577505615503360)
 
-> 'President Trump Congratulates Exxon Mobil for Job-Creating Investment Program'
-
-> https://t.co/adBzWhtq8S
+> Congratulations to Gregg Jarrett on his book, “THE RUSSIA HOAX, THE ILLICIT SCHEME TO CLEAR HILLARY CLINTON AND FRAME DONALD TRUMP,” going to #1 on @nytimes and Amazon. It is indeed a HOAX and WITCH HUNT, illegally started by people who have already been disgraced. Great book!
 
 *Strategy*
 
 Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
-ExxonMobil | - | 0.5 :thumbsup: | hold | market closed
-ExxonMobil | BlackRock | 0.5 :thumbsup: | hold | market closed
-ExxonMobil | PNC Financial Services | 0.5 :thumbsup: | hold | market closed
-ExxonMobil | State Street Corporation | 0.5 :thumbsup: | hold | market closed
+Amazon | - | -0.10000000149011612 :thumbsdown: | hold | market closed
 
 *Performance*
 
 Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
-XOM | New York Stock Exchange | - | - | 0.000%
-BLK | New York Stock Exchange | - | - | 0.000%
-PNC | New York Stock Exchange | - | - | 0.000%
-STT | New York Stock Exchange | - | - | 0.000%
+AMZN | NASDAQ | - | - | 0.000%
 
-##### [3/6/2017 10:49 PM (Monday)](https://twitter.com/realDonaldTrump/status/838959869772328960)
+##### [8/3/2018 11:05 PM (Friday)](https://twitter.com/realDonaldTrump/status/1025578552379535360)
 
-> Buy American &amp; hire American are the principles at the core of my agenda, which is: JOBS, JOBS, JOBS! Thank you @exxonmobil.
+> RT @realDonaldTrump: “Private payrolls boom in July, increasing by 219,000 vs 185,000 estimate: ADP” https://t.co/SeU9kGpima
 
 *Strategy*
 
 Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
-ExxonMobil | - | 0.4 :thumbsup: | hold | market closed
-ExxonMobil | BlackRock | 0.4 :thumbsup: | hold | market closed
-ExxonMobil | PNC Financial Services | 0.4 :thumbsup: | hold | market closed
-ExxonMobil | State Street Corporation | 0.4 :thumbsup: | hold | market closed
+Automatic Data Processing | - | 0.0 :neutral_face: | hold | market closed
 
 *Performance*
 
 Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
-XOM | New York Stock Exchange | - | - | 0.000%
-BLK | New York Stock Exchange | - | - | 0.000%
-PNC | New York Stock Exchange | - | - | 0.000%
-STT | New York Stock Exchange | - | - | 0.000%
+ADP | NASDAQ | - | - | 0.000%
 
-##### [3/6/2017 10:50 PM (Monday)](https://twitter.com/realDonaldTrump/status/838960097674002432)
+##### [8/10/2018 6:47 PM (Friday)](https://twitter.com/realDonaldTrump/status/1028050296151400453)
 
-> Thank you to @exxonmobil for your $20 billion investment that is creating more than 45,000 manufacturing &amp; construction jobs in the USA!
+> Had a very good phone call with @EmmanuelMacron, President of France. Discussed various subjects, in particular Security and Trade. Many other calls and conversations today. Looking forward to dinner tonight with Tim Cook of Apple. He is investing big dollars in U.S.A.
 
 *Strategy*
 
 Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
-ExxonMobil | - | 0.5 :thumbsup: | hold | market closed
-ExxonMobil | BlackRock | 0.5 :thumbsup: | hold | market closed
-ExxonMobil | PNC Financial Services | 0.5 :thumbsup: | hold | market closed
-ExxonMobil | State Street Corporation | 0.5 :thumbsup: | hold | market closed
+Apple | - | 0.30000001192092896 :thumbsup: | hold | market closed
+Apple | BlackRock | 0.30000001192092896 :thumbsup: | hold | market closed
+Apple | PNC Financial Services | 0.30000001192092896 :thumbsup: | hold | market closed
 
 *Performance*
 
 Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
-XOM | New York Stock Exchange | - | - | 0.000%
+AAPL | NASDAQ | - | - | 0.000%
 BLK | New York Stock Exchange | - | - | 0.000%
 PNC | New York Stock Exchange | - | - | 0.000%
-STT | New York Stock Exchange | - | - | 0.000%
 
-##### [3/22/2017 9:03 PM (Wednesday)](https://twitter.com/realDonaldTrump/status/844716149828993025)
+##### [8/12/2018 8:57 AM (Sunday)](https://twitter.com/realDonaldTrump/status/1028626569475051522)
 
-> RT @mitchellvii: EXACTLY AS I SAID - House Intel Chair: We Cannot Rule Out Sr. Obama Officials Were Involved in Trump Surveillance https://…
+> Many @harleydavidson owners plan to boycott the company if manufacturing moves overseas. Great! Most other companies are coming in our direction, including Harley competitors. A really bad move! U.S. will soon have a level playing field, or better.
 
 *Strategy*
 
 Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
-Intel | - | 0.2 :thumbsup: | hold | market closed
+Harley-Davidson | - | -0.10000000149011612 :thumbsdown: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+HOG | New York Stock Exchange | - | - | 0.000%
+
+##### [8/24/2018 5:57 AM (Friday)](https://twitter.com/realDonaldTrump/status/1032929824900370432)
+
+> Target CEO raves about the Economy. “This is the best consumer environment I’ve seen in my career.” A big statement from a top executive. But virtually everybody is saying this, &amp; when our Trade Deals are made, &amp; cost cutting done, you haven’t seen anything yet!  @DRUDGE_REPORT
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Target Corporation | - | 0.20000000298023224 :thumbsup: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+TGT | New York Stock Exchange | - | - | 0.000%
+
+##### [8/28/2018 5:57 AM (Tuesday)](https://twitter.com/realDonaldTrump/status/1034379525113753601)
+
+> NASDAQ has just gone above 8000 for the first time in history!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+NASDAQ | Nasdaq, Inc. | 0.0 :neutral_face: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+NDAQ | NASDAQ | - | - | 0.000%
+
+##### [8/28/2018 11:02 AM (Tuesday)](https://twitter.com/realDonaldTrump/status/1034456273306243076)
+
+> Google search results for “Trump News” shows only the viewing/reporting of Fake News Media. In other words, they have it RIGGED, for me &amp; others, so that almost all stories &amp; news is BAD. Fake CNN is prominent. Republican/Conservative &amp; Fair Media is shut out. Illegal? 96% of....
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Google | - | -0.6000000238418579 :thumbsdown: | hold | blacklist
+Google | - | -0.6000000238418579 :thumbsdown: | hold | blacklist
+Google | BlackRock | -0.6000000238418579 :thumbsdown: | bear | negative sentiment
+Google | PNC Financial Services | -0.6000000238418579 :thumbsdown: | bear | negative sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+GOOG | NASDAQ | - | - | 0.000%
+GOOGL | NASDAQ | - | - | 0.000%
+BLK | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
+
+##### [8/28/2018 11:02 AM (Tuesday)](https://twitter.com/realDonaldTrump/status/1034456281120206848)
+
+> ....results on “Trump News” are from National Left-Wing Media, very dangerous. Google &amp; others are suppressing voices of Conservatives and hiding information and news that is good. They are controlling what we can &amp; cannot see. This is a very serious situation-will be addressed!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Google | - | 0.0 :neutral_face: | hold | blacklist
+Google | - | 0.0 :neutral_face: | hold | blacklist
+Google | BlackRock | 0.0 :neutral_face: | hold | neutral sentiment
+Google | PNC Financial Services | 0.0 :neutral_face: | hold | neutral sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+GOOG | NASDAQ | - | - | 0.000%
+GOOGL | NASDAQ | - | - | 0.000%
+BLK | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
+
+##### [9/5/2018 9:39 AM (Wednesday)](https://twitter.com/realDonaldTrump/status/1037334510159966214)
+
+> Just like the NFL, whose ratings have gone WAY DOWN, Nike is getting absolutely killed with anger and boycotts. I wonder if they had any idea that it would be this way? As far as the NFL is concerned, I just find it hard to watch, and always will, until they stand for the FLAG!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Nike | - | -0.20000000298023224 :thumbsdown: | bear | negative sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+NKE | New York Stock Exchange | - | - | 0.000%
+
+##### [9/7/2018 6:56 AM (Friday)](https://twitter.com/realDonaldTrump/status/1038018199449567232)
+
+> What was Nike thinking?
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Nike | - | 0.0 :neutral_face: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+NKE | New York Stock Exchange | - | - | 0.000%
+
+##### [9/8/2018 11:45 AM (Saturday)](https://twitter.com/realDonaldTrump/status/1038453273286664193)
+
+> Apple prices may increase because of the massive Tariffs we may be imposing on China - but there is an easy solution where there would be ZERO tax, and indeed a tax incentive. Make your products in the United States instead of China. Start building new plants now. Exciting! #MAGA
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Apple | - | 0.10000000149011612 :thumbsup: | hold | market closed
+Apple | BlackRock | 0.10000000149011612 :thumbsup: | hold | market closed
+Apple | PNC Financial Services | 0.10000000149011612 :thumbsup: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+AAPL | NASDAQ | - | - | 0.000%
+BLK | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
+
+##### [9/9/2018 9:49 AM (Sunday)](https://twitter.com/realDonaldTrump/status/1038786434306650113)
+
+> “Ford has abruptly killed a plan to sell a Chinese-made small vehicle in the U.S. because of the prospect of higher U.S. Tariffs.” CNBC.  This is just the beginning. This car can now be BUILT IN THE U.S.A. and Ford will pay no tariffs!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Ford | Ford Motor Company | -0.10000000149011612 :thumbsdown: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+F | New York Stock Exchange | - | - | 0.000%
+
+##### [10/10/2018 8:48 AM (Wednesday)](https://twitter.com/realDonaldTrump/status/1050005069234692096)
+
+> RT @NHC_Atlantic: NHC Director Ken Graham will provide a Facebook Live broadcast regarding Category 4 Hurricane #Michael at 8:45 a.m. EDT (…
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Facebook | Facebook Inc. | 0.0 :neutral_face: | hold | neutral sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+FB | NASDAQ | - | - | 0.000%
+
+##### [10/21/2018 6:48 PM (Sunday)](https://twitter.com/realDonaldTrump/status/1054142516881248258)
+
+> Facebook has just stated that they are setting up a system to “purge” themselves of Fake News. Does that mean CNN will finally be put out of business?
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Facebook | Facebook Inc. | -0.4000000059604645 :thumbsdown: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+FB | NASDAQ | - | - | 0.000%
+
+##### [10/30/2018 8:53 AM (Tuesday)](https://twitter.com/realDonaldTrump/status/1057254051254013953)
+
+> “If the Fed backs off and starts talking a little more Dovish, I think we’re going to be right back to our 2,800 to 2,900 target range that we’ve had for the S&amp;P 500.” Scott Wren, Wells Fargo.
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Wells Fargo | - | 0.0 :neutral_face: | hold | neutral sentiment
+Wells Fargo | Berkshire Hathaway | 0.0 :neutral_face: | hold | neutral sentiment
+Wells Fargo | Berkshire Hathaway | 0.0 :neutral_face: | hold | neutral sentiment
+Wells Fargo | BlackRock | 0.0 :neutral_face: | hold | neutral sentiment
+Wells Fargo | PNC Financial Services | 0.0 :neutral_face: | hold | neutral sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+WFC | New York Stock Exchange | - | - | 0.000%
+BRK.A | New York Stock Exchange | - | - | 0.000%
+BRK.B | New York Stock Exchange | - | - | 0.000%
+BLK | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
+
+##### [11/3/2018 5:05 PM (Saturday)](https://twitter.com/realDonaldTrump/status/1058827516427808768)
+
+> Rumor has it that Senator Joe Donnelly of Indiana is paying for Facebook ads for his so-called opponent on the libertarian ticket. Donnelly is trying to steal the election? Isn’t that what Russia did!?
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Facebook | Facebook Inc. | -0.10000000149011612 :thumbsdown: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+FB | NASDAQ | - | - | 0.000%
+
+##### [11/6/2018 11:24 AM (Tuesday)](https://twitter.com/realDonaldTrump/status/1059844034829737985)
+
+> RT @realDonaldTrump: Rumor has it that Senator Joe Donnelly of Indiana is paying for Facebook ads for his so-called opponent on the liberta…
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Facebook | Facebook Inc. | 0.0 :neutral_face: | hold | neutral sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+FB | NASDAQ | - | - | 0.000%
+
+##### [11/12/2018 1:13 PM (Monday)](https://twitter.com/realDonaldTrump/status/1062045654711713792)
+
+> American Cable Association has big problems with Comcast. They say that Comcast routinely violates Antitrust Laws. “These guys are acting much worse, and have much more potential for damage to consumers, than anything AT&amp;T-Time Warner would do.” Charlie Gasparino
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Comcast | - | -0.4000000059604645 :thumbsdown: | hold | market closed
+Time Warner Cable | - | -0.4000000059604645 :thumbsdown: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+CMCSA | NASDAQ | - | - | 0.000%
+TWC | New York Stock Exchange | - | - | 0.000%
+
+##### [11/15/2018 9:59 AM (Thursday)](https://twitter.com/realDonaldTrump/status/1063084073231544320)
+
+> The only “Collusion” is that of the Democrats with Russia and many others. Why didn’t the FBI take the Server from the DNC? They still don’t have it. Check out how biased Facebook, Google and Twitter are in favor of the Democrats. That’s the real Collusion!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Google | - | -0.10000000149011612 :thumbsdown: | hold | blacklist
+Google | - | -0.10000000149011612 :thumbsdown: | hold | blacklist
+Google | BlackRock | -0.10000000149011612 :thumbsdown: | bear | negative sentiment
+Google | PNC Financial Services | -0.10000000149011612 :thumbsdown: | bear | negative sentiment
+Facebook | Facebook Inc. | -0.10000000149011612 :thumbsdown: | bear | negative sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+GOOG | NASDAQ | - | - | 0.000%
+GOOGL | NASDAQ | - | - | 0.000%
+BLK | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
+FB | NASDAQ | - | - | 0.000%
+
+##### [11/27/2018 2:05 PM (Tuesday)](https://twitter.com/realDonaldTrump/status/1067494682249318402)
+
+> ....for electric cars. General Motors made a big China bet years ago when they built plants there (and in Mexico) - don’t think that bet is going to pay off. I am here to protect America’s Workers!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+General Motors | - | 0.10000000149011612 :thumbsup: | bull | positive sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+GM | New York Stock Exchange | - | - | 0.000%
+
+##### [11/27/2018 2:05 PM (Tuesday)](https://twitter.com/realDonaldTrump/status/1067494680416407552)
+
+> Very disappointed with General Motors and their CEO, Mary Barra, for closing plants in Ohio, Michigan and Maryland. Nothing being closed in Mexico &amp; China. The U.S. saved General Motors, and this is the THANKS we get! We are now looking at cutting all @GM subsidies, including....
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+General Motors | - | -0.10000000149011612 :thumbsdown: | bear | negative sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+GM | New York Stock Exchange | - | - | 0.000%
+
+##### [11/28/2018 9:49 AM (Wednesday)](https://twitter.com/realDonaldTrump/status/1067792610180456448)
+
+> .....and G.M. would not be closing their plants in Ohio, Michigan &amp; Maryland. Get smart Congress. Also, the countries that send us cars have taken advantage of the U.S. for decades. The President has great power on this issue - Because of the G.M. event, it is being studied now!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+General Motors | - | 0.10000000149011612 :thumbsup: | bull | positive sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+GM | New York Stock Exchange | - | - | 0.000%
+
+##### [11/29/2018 6:37 AM (Thursday)](https://twitter.com/realDonaldTrump/status/1068106609644183554)
+
+> General Motors is very counter to what other auto, and other, companies are doing. Big Steel is opening and renovating plants all over the country. Auto companies are pouring into the U.S., including BMW, which just announced a major new plant. The U.S.A. is booming!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+General Motors | - | 0.0 :neutral_face: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+GM | New York Stock Exchange | - | - | 0.000%
+
+##### [12/18/2018 7:26 AM (Tuesday)](https://twitter.com/realDonaldTrump/status/1075004324567285761)
+
+> Facebook, Twitter and Google are so biased toward the Dems it is ridiculous! Twitter, in fact, has made it much more difficult for people to join @realDonaldTrump. They have removed many names &amp; greatly slowed the level and speed of increase. They have acknowledged-done NOTHING!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Facebook | Facebook Inc. | -0.6000000238418579 :thumbsdown: | hold | market closed
+Google | - | -0.6000000238418579 :thumbsdown: | hold | blacklist
+Google | - | -0.6000000238418579 :thumbsdown: | hold | blacklist
+Google | BlackRock | -0.6000000238418579 :thumbsdown: | hold | market closed
+Google | PNC Financial Services | -0.6000000238418579 :thumbsdown: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+FB | NASDAQ | - | - | 0.000%
+GOOG | NASDAQ | - | - | 0.000%
+GOOGL | NASDAQ | - | - | 0.000%
+BLK | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
+
+##### [12/18/2018 8:22 AM (Tuesday)](https://twitter.com/realDonaldTrump/status/1075018465356996609)
+
+> ....WILL NEVER BE PROVEN AND ARE LIKELY FALSE.”  Thank you to Michael Isikoff, Yahoo, for honesty. What this means is that the FISA WARRANTS and the whole Russian Witch Hunt is a Fraud and a Hoax which should be ended immediately. Also, it was paid for by Crooked Hillary &amp; DNC!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Yahoo | BlackRock | -0.4000000059604645 :thumbsdown: | bear | negative sentiment
+Yahoo | PNC Financial Services | -0.4000000059604645 :thumbsdown: | bear | negative sentiment
+Yahoo | Verizon | -0.4000000059604645 :thumbsdown: | bear | negative sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+BLK | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
+VZ | NASDAQ | - | - | 0.000%
+
+##### [12/23/2018 11:46 AM (Sunday)](https://twitter.com/realDonaldTrump/status/1076881816462737408)
+
+> I am pleased to announce that our very talented Deputy Secretary of Defense, Patrick Shanahan, will assume the title of Acting Secretary of Defense starting January 1, 2019. Patrick has a long list of accomplishments while serving as Deputy, &amp; previously Boeing. He will be great!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Boeing | - | 0.6000000238418579 :thumbsup: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+BA | New York Stock Exchange | - | - | 0.000%
+
+##### [1/6/2019 10:27 AM (Sunday)](https://twitter.com/realDonaldTrump/status/1081935373914259458)
+
+> Our GREAT MILITARY has delivered justice for the heroes lost and wounded in the cowardly attack on the USS Cole. We have just killed the leader of that attack, Jamal al-Badawi. Our work against al Qaeda continues. We will never stop in our fight against Radical Islamic Terrorism!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Huntington Ingalls Industries | - | 0.30000001192092896 :thumbsup: | hold | market closed
+Ingalls Shipbuilding | Northrop Grumman Ship Systems | 0.30000001192092896 :thumbsup: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+HII | New York Stock Exchange | - | - | 0.000%
+NOC | New York Stock Exchange | - | - | 0.000%
+
+##### [1/26/2019 8:49 PM (Saturday)](https://twitter.com/realDonaldTrump/status/1089339681941147648)
+
+> ....about all of the one sided Fake Media coverage (collusion with Crooked H?) that I had to endure during my very successful presidential campaign. What about the now revealed bias by Facebook and many others. Roger Stone didn’t even work for me anywhere near the Election!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Facebook | Facebook Inc. | -0.699999988079071 :thumbsdown: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+FB | NASDAQ | - | - | 0.000%
+
+##### [1/28/2019 8:41 AM (Monday)](https://twitter.com/realDonaldTrump/status/1089881244312178688)
+
+> Howard Schultz doesn’t have the “guts” to run for President! Watched him on @60Minutes last night and I agree with him that he is not the “smartest person.” Besides, America already has that! I only hope that Starbucks is still paying me their rent in Trump Tower!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Starbucks | - | 0.0 :neutral_face: | hold | neutral sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+SBUX | NASDAQ | - | - | 0.000%
+
+##### [1/31/2019 4:40 PM (Thursday)](https://twitter.com/realDonaldTrump/status/1091088740947320833)
+
+> Just concluded a great meeting with my Intel team in the Oval Office who told me that what they said on Tuesday at the Senate Hearing was mischaracterized by the media - and we are very much in agreement on Iran, ISIS, North Korea, etc. Their testimony was distorted press.... https://t.co/Zl5aqBmpjF
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Intel | - | -0.20000000298023224 :thumbsdown: | hold | market closed
 
 *Performance*
 
@@ -547,41 +729,273 @@ Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
 INTC | NASDAQ | - | - | 0.000%
 
-##### [3/24/2017 1:59 PM (Friday)](https://twitter.com/realDonaldTrump/status/845334323045765121)
+##### [3/4/2019 9:10 PM (Monday)](https://twitter.com/realDonaldTrump/status/1102753238451929088)
 
-> Today, I was thrilled to announce a commitment of $25 BILLION &amp; 20K AMERICAN JOBS over the next 4 years. THANK YOU Charter Communications! https://t.co/PLxUmXVl0h
+> .... Amazon, like the Washington Post. It’s hard to remember that not so long ago America had prestige media outlets, but not anymore.” @TuckerCarlson   The Fake News Media is the true Enemy of the People!
 
 *Strategy*
 
 Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
-Charter Communications | - | 0.6 :thumbsup: | bull | positive sentiment
-Charter Communications | Berkshire Hathaway | 0.6 :thumbsup: | bull | positive sentiment
-Charter Communications | Berkshire Hathaway | 0.6 :thumbsup: | bull | positive sentiment
+Amazon | - | -0.10000000149011612 :thumbsdown: | hold | market closed
 
 *Performance*
 
 Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
-CHTR | NASDAQ | $326.01 | $325.35 | -0.202%
-BRK.A | New York Stock Exchange | $253,710.00 | $252,301.00 | -0.555%
-BRK.B | New York Stock Exchange | $169.17 | $168.66 | -0.301%
+AMZN | NASDAQ | - | - | 0.000%
 
-##### [3/28/2017 6:36 AM (Tuesday)](https://twitter.com/realDonaldTrump/status/846672219073863681)
+##### [3/5/2019 2:00 PM (Tuesday)](https://twitter.com/realDonaldTrump/status/1103007344190017537)
 
-> Big announcement by Ford today. Major investment to be made in three Michigan plants. Car companies coming back to U.S.  JOBS! JOBS! JOBS!
+> Our great First Lady (@FLOTUS) will be doing a LIVE show TODAY at 1:00 PM PT with the terrific @EricBolling at the @WestgateVegas Resort. She’s on her #BeBest Tour, helping address the #OpioidCrisis. Free admission for the first 1,500 people!
 
 *Strategy*
 
 Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
-Ford | - | 0.3 :thumbsup: | hold | market closed
+Westgate Las Vegas Resort & Casino | Colony Capital | 0.5 :thumbsup: | bull | positive sentiment
+Westgate Las Vegas Resort & Casino | The Blackstone Group | 0.5 :thumbsup: | bull | positive sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+CLNY | New York Stock Exchange | - | - | 0.000%
+BX | New York Stock Exchange | - | - | 0.000%
+
+##### [3/11/2019 10:12 AM (Monday)](https://twitter.com/realDonaldTrump/status/1105109329290686464)
+
+> At a recent round table meeting of business executives, &amp; long after formally introducing Tim Cook of Apple, I quickly referred to Tim + Apple as Tim/Apple as an easy way to save time &amp; words. The Fake News was disparagingly all over this, &amp; it became yet another bad Trump story!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Apple | - | -0.10000000149011612 :thumbsdown: | bear | negative sentiment
+Apple | BlackRock | -0.10000000149011612 :thumbsdown: | bear | negative sentiment
+Apple | PNC Financial Services | -0.10000000149011612 :thumbsdown: | bear | negative sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+AAPL | NASDAQ | - | - | 0.000%
+BLK | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
+
+##### [3/11/2019 11:27 AM (Monday)](https://twitter.com/realDonaldTrump/status/1105128204719796224)
+
+> Republican Senators have a very easy vote this week. It is about Border Security and the Wall (stopping Crime, Drugs etc.), not Constitutionality and Precedent. It is an 80% positive issue. The Dems are 100% United, as usual, on a 20% issue, Open Borders and Crime. Get tough R’s!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+United Airlines | - | 0.10000000149011612 :thumbsup: | bull | positive sentiment
+United Airlines | - | 0.10000000149011612 :thumbsup: | bull | positive sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+UAL | New York Stock Exchange | - | - | 0.000%
+UAUA | NASDAQ | - | - | 0.000%
+
+##### [3/16/2019 5:01 PM (Saturday)](https://twitter.com/realDonaldTrump/status/1107024074184761344)
+
+> Because the economy is so good, General Motors must get their Lordstown, Ohio, plant open, maybe in a different form or with a new owner, FAST! Toyota is investing 13.5 $Billion in U.S., others likewise. G.M. MUST ACT QUICKLY. Time is of the essence!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+General Motors | - | 0.30000001192092896 :thumbsup: | hold | market closed
+Toyota | - | 0.30000001192092896 :thumbsup: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+GM | New York Stock Exchange | - | - | 0.000%
+TM | New York Stock Exchange | - | - | 0.000%
+
+##### [3/16/2019 5:07 PM (Saturday)](https://twitter.com/realDonaldTrump/status/1107025689486737410)
+
+> Google is helping China and their military, but not the U.S. Terrible! The good news is that they helped Crooked Hillary Clinton, and not Trump....and how did that turn out?
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Google | - | -0.4000000059604645 :thumbsdown: | hold | blacklist
+Google | - | -0.4000000059604645 :thumbsdown: | hold | blacklist
+Google | BlackRock | -0.4000000059604645 :thumbsdown: | hold | market closed
+Google | PNC Financial Services | -0.4000000059604645 :thumbsdown: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+GOOG | NASDAQ | - | - | 0.000%
+GOOGL | NASDAQ | - | - | 0.000%
+BLK | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
+
+##### [3/17/2019 6:27 PM (Sunday)](https://twitter.com/realDonaldTrump/status/1107408129619382277)
+
+> Just spoke to Mary Barra, CEO of General Motors about the Lordstown Ohio plant. I am not happy that it is closed when everything else in our Country is BOOMING. I asked her to sell it or do something quickly. She blamed the UAW Union — I don’t care, I just want it open!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+General Motors | - | -0.4000000059604645 :thumbsdown: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+GM | New York Stock Exchange | - | - | 0.000%
+
+##### [3/18/2019 7:37 AM (Monday)](https://twitter.com/realDonaldTrump/status/1107607058600349696)
+
+> General Motors and the UAW are going to start “talks” in September/October. Why wait, start them now! I want jobs to stay in the U.S.A. and want Lordstown (Ohio), in one of the best economies in our history, opened or sold to a company who will open it up fast! Car companies.....
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+General Motors | - | 0.10000000149011612 :thumbsup: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+GM | New York Stock Exchange | - | - | 0.000%
+
+##### [3/19/2019 9:57 AM (Tuesday)](https://twitter.com/realDonaldTrump/status/1108004465121075200)
+
+> Facebook, Google and Twitter, not to mention the Corrupt Media, are sooo on the side of the Radical Left Democrats. But fear not, we will win anyway, just like we did before! #MAGA
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Facebook | Facebook Inc. | -0.20000000298023224 :thumbsdown: | bear | negative sentiment
+Google | - | -0.20000000298023224 :thumbsdown: | hold | blacklist
+Google | - | -0.20000000298023224 :thumbsdown: | hold | blacklist
+Google | BlackRock | -0.20000000298023224 :thumbsdown: | bear | negative sentiment
+Google | PNC Financial Services | -0.20000000298023224 :thumbsdown: | bear | negative sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+FB | NASDAQ | - | - | 0.000%
+GOOG | NASDAQ | - | - | 0.000%
+GOOGL | NASDAQ | - | - | 0.000%
+BLK | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
+
+##### [3/20/2019 4:51 PM (Wednesday)](https://twitter.com/realDonaldTrump/status/1108471193353375744)
+
+> Great news from @Ford! They are investing nearly $1 BILLION in Flat Rock, Michigan for auto production on top of a $1 BILLION investment last month in a facility outside of Chicago. Companies are pouring back into the United States - they want to be where the action is!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Ford Motor Company | - | 0.4000000059604645 :thumbsup: | hold | market closed
 
 *Performance*
 
 Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
 F | New York Stock Exchange | - | - | 0.000%
+
+##### [3/27/2019 3:38 PM (Wednesday)](https://twitter.com/realDonaldTrump/status/1110989595758469120)
+
+> ....Also discussed political fairness and various things that @Google can do for our Country. Meeting ended very well!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Google | - | 0.10000000149011612 :thumbsup: | hold | blacklist
+Google | - | 0.10000000149011612 :thumbsup: | hold | blacklist
+Google | BlackRock | 0.10000000149011612 :thumbsup: | bull | positive sentiment
+Google | PNC Financial Services | 0.10000000149011612 :thumbsup: | bull | positive sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+GOOG | NASDAQ | - | - | 0.000%
+GOOGL | NASDAQ | - | - | 0.000%
+BLK | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
+
+##### [3/27/2019 3:38 PM (Wednesday)](https://twitter.com/realDonaldTrump/status/1110989594521026561)
+
+> Just met with @SundarPichai, President of @Google, who is obviously doing quite well. He stated strongly that he is totally committed to the U.S. Military, not the Chinese Military....
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Google | - | 0.0 :neutral_face: | hold | blacklist
+Google | - | 0.0 :neutral_face: | hold | blacklist
+Google | BlackRock | 0.0 :neutral_face: | hold | neutral sentiment
+Google | PNC Financial Services | 0.0 :neutral_face: | hold | neutral sentiment
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+GOOG | NASDAQ | - | - | 0.000%
+GOOGL | NASDAQ | - | - | 0.000%
+BLK | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
+
+##### [4/15/2019 6:29 AM (Monday)](https://twitter.com/realDonaldTrump/status/1117736685721223168)
+
+> What do I know about branding, maybe nothing (but I did become President!), but if I were Boeing, I would FIX the Boeing 737 MAX, add some additional great features, &amp; REBRAND the plane with a new name.
+
+> No product has suffered like this one. But again, what the hell do I know?
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Boeing | - | -0.30000001192092896 :thumbsdown: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+BA | New York Stock Exchange | - | - | 0.000%
+
+##### [4/22/2019 7:38 PM (Monday)](https://twitter.com/realDonaldTrump/status/1120471960193052672)
+
+> RT @DevinNunes: Victor Davis Hanson: Mueller Probe Could Backfire on Those Who Fabricated Russia-Collusion Narrative - YouTube https://t.co…
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+YouTube | Alphabet Inc. | 0.5 :thumbsup: | hold | blacklist
+YouTube | Alphabet Inc. | 0.5 :thumbsup: | hold | blacklist
+YouTube | BlackRock | 0.5 :thumbsup: | hold | market closed
+YouTube | PNC Financial Services | 0.5 :thumbsup: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+GOOG | NASDAQ | - | - | 0.000%
+GOOGL | NASDAQ | - | - | 0.000%
+BLK | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
 
 ### Fund simulation
 
@@ -590,60 +1004,110 @@ This is how an initial investment of $100,000.00 would have grown, including fee
 Time | Trade | Gain | Value | Return | Annualized
 -----|-------|------|-------|--------|-----------
 *Initial* | - | - | *$100,000.00* | - | -
-**12/6/2016 8:52 AM** | **BA :thumbsdown:** | -0.092% | $99,899.10 | -0.101% | -
-12/11/2016 10:29 AM | XOM :thumbsup: | 0.000% | $99,899.10 | -0.101% | -7.104%
-12/11/2016 10:29 AM | BLK :thumbsup: | 0.000% | $99,899.10 | -0.101% | -7.104%
-12/11/2016 10:29 AM | PNC :thumbsup: | 0.000% | $99,899.10 | -0.101% | -7.104%
-12/11/2016 10:29 AM | STT :thumbsup: | 0.000% | $99,899.10 | -0.101% | -7.104%
-12/12/2016 8:26 AM | LMT :neutral_face: | 0.000% | $99,899.10 | -0.101% | -7.104%
-12/13/2016 6:43 AM | XOM :thumbsup: | 0.000% | $99,899.10 | -0.101% | -5.956%
-12/13/2016 6:43 AM | BLK :thumbsup: | 0.000% | $99,899.10 | -0.101% | -5.956%
-12/13/2016 6:43 AM | PNC :thumbsup: | 0.000% | $99,899.10 | -0.101% | -5.956%
-12/13/2016 6:43 AM | STT :thumbsup: | 0.000% | $99,899.10 | -0.101% | -5.956%
-12/17/2016 4:17 PM | FB :thumbsup: | 0.000% | $99,899.10 | -0.101% | -3.294%
-12/22/2016 5:26 PM | LMT :neutral_face: | 0.000% | $99,899.10 | -0.101% | -2.277%
-12/22/2016 5:26 PM | BA :neutral_face: | 0.000% | $99,899.10 | -0.101% | -2.277%
-1/3/2017 7:30 AM | GM :thumbsdown: | 0.000% | $99,899.10 | -0.101% | -1.355%
-**1/3/2017 11:44 AM** | **F :thumbsup:** | 1.450% | $101,323.62 | 1.324% | 18.698%
-**1/4/2017 8:19 AM** | **F :thumbsup:** | 4.607% | $105,935.16 | 5.935% | 112.039%
-**1/5/2017 1:14 PM** | **TM :thumbsdown:** | 0.565% | $106,514.14 | 6.514% | 115.504%
-**1/9/2017 9:14 AM** | **FCAU :thumbsup:** | 0.190% | $106,704.26 | 6.704% | 100.696%
-1/9/2017 9:16 AM | F :thumbsup: | -1.558% | $106,704.26 | 6.704% | 100.696%
-1/9/2017 9:16 AM | FCAU :thumbsup: | 0.000% | $106,704.26 | 6.704% | 100.696%
-1/16/2017 8:42 PM | TWTR :neutral_face: | 0.000% | $106,704.26 | 6.704% | 78.191%
-**1/17/2017 12:55 PM** | **GM :thumbsup:** | -0.613% | $106,478.62 | 6.479% | 72.553%
-**1/17/2017 12:55 PM** | **WMT :thumbsup:** | -0.044% | $106,453.30 | 6.453% | 72.197%
-**1/17/2017 12:55 PM** | **STT :thumbsup:** | -1.219% | $106,014.73 | 6.015% | 66.129%
-1/18/2017 7:34 AM | F :thumbsdown: | 0.000% | $106,014.73 | 6.015% | 66.129%
-1/18/2017 7:34 AM | GM :thumbsdown: | 0.000% | $106,014.73 | 6.015% | 66.129%
-1/18/2017 7:34 AM | LMT :thumbsdown: | 0.000% | $106,014.73 | 6.015% | 66.129%
-**1/18/2017 8:00 AM** | **BLK :thumbsup:** | 0.854% | $106,452.83 | 6.453% | 72.190%
-**1/18/2017 8:00 AM** | **PNC :thumbsup:** | 2.062% | $107,523.93 | 7.524% | 87.843%
-1/24/2017 12:49 PM | TRP :neutral_face: | 0.000% | $107,523.93 | 7.524% | 71.665%
-1/24/2017 7:46 PM | F :thumbsup: | 0.000% | $107,523.93 | 7.524% | 71.665%
-1/24/2017 7:46 PM | GM :thumbsup: | 0.000% | $107,523.93 | 7.524% | 71.665%
-1/28/2017 10:42 AM | ROK :thumbsup: | 0.000% | $107,523.93 | 7.524% | 64.805%
-1/30/2017 7:16 AM | DAL :thumbsdown: | 0.000% | $107,523.93 | 7.524% | 63.287%
-**2/8/2017 10:51 AM** | **JWN :thumbsdown:** | -4.244% | $102,792.81 | 2.793% | 17.011%
-2/8/2017 2:22 PM | INTC :thumbsup: | 0.110% | $102,792.81 | 2.793% | 17.011%
-2/11/2017 8:24 AM | LMT :neutral_face: | 0.000% | $102,792.81 | 2.793% | 16.455%
-2/14/2017 5:50 PM | HUM :neutral_face: | 0.000% | $102,792.81 | 2.793% | 15.446%
-2/15/2017 4:34 PM | AET :thumbsdown: | 0.000% | $102,792.81 | 2.793% | 15.212%
-2/17/2017 6:38 AM | BA :thumbsup: | 0.000% | $102,792.81 | 2.793% | 14.986%
-3/6/2017 4:19 PM | XOM :thumbsup: | 0.000% | $102,792.81 | 2.793% | 11.819%
-3/6/2017 4:19 PM | BLK :thumbsup: | 0.000% | $102,792.81 | 2.793% | 11.819%
-3/6/2017 4:19 PM | PNC :thumbsup: | 0.000% | $102,792.81 | 2.793% | 11.819%
-3/6/2017 4:19 PM | STT :thumbsup: | 0.000% | $102,792.81 | 2.793% | 11.819%
-3/6/2017 10:49 PM | XOM :thumbsup: | 0.000% | $102,792.81 | 2.793% | 11.819%
-3/6/2017 10:49 PM | BLK :thumbsup: | 0.000% | $102,792.81 | 2.793% | 11.819%
-3/6/2017 10:49 PM | PNC :thumbsup: | 0.000% | $102,792.81 | 2.793% | 11.819%
-3/6/2017 10:49 PM | STT :thumbsup: | 0.000% | $102,792.81 | 2.793% | 11.819%
-3/6/2017 10:50 PM | XOM :thumbsup: | 0.000% | $102,792.81 | 2.793% | 11.819%
-3/6/2017 10:50 PM | BLK :thumbsup: | 0.000% | $102,792.81 | 2.793% | 11.819%
-3/6/2017 10:50 PM | PNC :thumbsup: | 0.000% | $102,792.81 | 2.793% | 11.819%
-3/6/2017 10:50 PM | STT :thumbsup: | 0.000% | $102,792.81 | 2.793% | 11.819%
-3/22/2017 9:03 PM | INTC :thumbsup: | 0.000% | $102,792.81 | 2.793% | 9.949%
-**3/24/2017 1:59 PM** | **CHTR :thumbsup:** | -0.202% | $102,714.27 | 2.714% | 9.473%
-3/24/2017 1:59 PM | BRK.A :thumbsup: | -0.555% | $102,714.27 | 2.714% | 9.473%
-**3/24/2017 1:59 PM** | **BRK.B :thumbsup:** | -0.301% | $102,602.37 | 2.602% | 9.071%
-3/28/2017 6:36 AM | F :thumbsup: | 0.000% | $102,602.37 | 2.602% | 8.815%
+7/20/2018 10:39 AM | GOOG :thumbsdown: | 0.000% | $100,000.00 | 0.000% | -
+7/20/2018 10:39 AM | GOOGL :thumbsdown: | 0.000% | $100,000.00 | 0.000% | -
+7/20/2018 10:39 AM | BLK :thumbsdown: | 0.000% | $100,000.00 | 0.000% | -
+7/20/2018 10:39 AM | PNC :thumbsdown: | 0.000% | $100,000.00 | 0.000% | -
+7/23/2018 9:35 AM | AMZN :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+7/24/2018 7:01 AM | LMT :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+7/24/2018 8:39 PM | SBGI :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+7/24/2018 8:39 PM | TRCO :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+7/24/2018 8:39 PM | CMCSA :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+7/26/2018 5:12 PM | X :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+7/26/2018 10:37 PM | X :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+7/27/2018 7:26 AM | X :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+7/30/2018 8:06 AM | X :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/1/2018 5:16 PM | ADP :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/2/2018 12:38 AM | AMZN :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/3/2018 6:43 PM | BA :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/3/2018 11:01 PM | AMZN :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/3/2018 11:05 PM | ADP :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/10/2018 6:47 PM | AAPL :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/10/2018 6:47 PM | BLK :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/10/2018 6:47 PM | PNC :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/12/2018 8:57 AM | HOG :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/24/2018 5:57 AM | TGT :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/28/2018 5:57 AM | NDAQ :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/28/2018 11:02 AM | GOOG :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/28/2018 11:02 AM | GOOGL :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/28/2018 11:02 AM | BLK :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/28/2018 11:02 AM | PNC :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/28/2018 11:02 AM | GOOG :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/28/2018 11:02 AM | GOOGL :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/28/2018 11:02 AM | BLK :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+8/28/2018 11:02 AM | PNC :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+9/5/2018 9:39 AM | NKE :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+9/7/2018 6:56 AM | NKE :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+9/8/2018 11:45 AM | AAPL :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+9/8/2018 11:45 AM | BLK :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+9/8/2018 11:45 AM | PNC :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+9/9/2018 9:49 AM | F :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+10/10/2018 8:48 AM | FB :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+10/21/2018 6:48 PM | FB :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+10/30/2018 8:53 AM | WFC :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+10/30/2018 8:53 AM | BRK.A :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+10/30/2018 8:53 AM | BRK.B :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+10/30/2018 8:53 AM | BLK :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+10/30/2018 8:53 AM | PNC :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+11/3/2018 5:05 PM | FB :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+11/6/2018 11:24 AM | FB :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+11/12/2018 1:13 PM | CMCSA :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+11/12/2018 1:13 PM | TWC :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+11/15/2018 9:59 AM | GOOG :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+11/15/2018 9:59 AM | GOOGL :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+11/15/2018 9:59 AM | BLK :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+11/15/2018 9:59 AM | PNC :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+11/15/2018 9:59 AM | FB :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+11/27/2018 2:05 PM | GM :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+11/27/2018 2:05 PM | GM :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+11/28/2018 9:49 AM | GM :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+11/29/2018 6:37 AM | GM :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+12/18/2018 7:26 AM | FB :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+12/18/2018 7:26 AM | GOOG :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+12/18/2018 7:26 AM | GOOGL :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+12/18/2018 7:26 AM | BLK :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+12/18/2018 7:26 AM | PNC :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+12/18/2018 8:22 AM | BLK :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+12/18/2018 8:22 AM | PNC :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+12/18/2018 8:22 AM | VZ :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+12/23/2018 11:46 AM | BA :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+1/6/2019 10:27 AM | HII :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+1/6/2019 10:27 AM | NOC :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+1/26/2019 8:49 PM | FB :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+1/28/2019 8:41 AM | SBUX :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+1/31/2019 4:40 PM | INTC :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/4/2019 9:10 PM | AMZN :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/5/2019 2:00 PM | CLNY :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/5/2019 2:00 PM | BX :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/11/2019 10:12 AM | AAPL :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/11/2019 10:12 AM | BLK :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/11/2019 10:12 AM | PNC :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/11/2019 11:27 AM | UAL :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/11/2019 11:27 AM | UAUA :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/16/2019 5:01 PM | GM :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/16/2019 5:01 PM | TM :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/16/2019 5:07 PM | GOOG :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/16/2019 5:07 PM | GOOGL :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/16/2019 5:07 PM | BLK :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/16/2019 5:07 PM | PNC :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/17/2019 6:27 PM | GM :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/18/2019 7:37 AM | GM :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/19/2019 9:57 AM | FB :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/19/2019 9:57 AM | GOOG :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/19/2019 9:57 AM | GOOGL :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/19/2019 9:57 AM | BLK :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/19/2019 9:57 AM | PNC :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/20/2019 4:51 PM | F :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/27/2019 3:38 PM | GOOG :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/27/2019 3:38 PM | GOOGL :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/27/2019 3:38 PM | BLK :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/27/2019 3:38 PM | PNC :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/27/2019 3:38 PM | GOOG :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/27/2019 3:38 PM | GOOGL :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/27/2019 3:38 PM | BLK :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+3/27/2019 3:38 PM | PNC :neutral_face: | 0.000% | $100,000.00 | 0.000% | 0.000%
+4/15/2019 6:29 AM | BA :thumbsdown: | 0.000% | $100,000.00 | 0.000% | 0.000%
+4/22/2019 7:38 PM | GOOG :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+4/22/2019 7:38 PM | GOOGL :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+4/22/2019 7:38 PM | BLK :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
+4/22/2019 7:38 PM | PNC :thumbsup: | 0.000% | $100,000.00 | 0.000% | 0.000%
